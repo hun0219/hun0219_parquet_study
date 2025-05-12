@@ -15,4 +15,4 @@ license = {text = "MIT"}
 distribution = true
 
 [project.scripts]
-mycli = 'my_history.cli:cnt'
+mycli = 'my_history.cli:query'
